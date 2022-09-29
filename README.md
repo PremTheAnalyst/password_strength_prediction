@@ -7,5 +7,5 @@ Values in strength column are 0,1,2 .<br  />
 Categorised the data into dependent and independent variables.<br  />
 I used TfidfVectorizer from feature_extraction.text to convert text to numbers. <br  />
 Then created Train-Test-Split.<br  />
-By using few ML algorithms like Logistic regression,XGBoost,Multinomial Naive bayes<br  />
+By using few ML algorithms like Logistic regression,Multinomial Naive bayes etc.<br  />
 I will predict whether a password falls in category 0,1 or 2.
