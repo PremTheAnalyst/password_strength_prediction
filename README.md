@@ -8,4 +8,5 @@ Categorised the data into dependent and independent variables.<br  />
 I used TfidfVectorizer from feature_extraction.text to convert text to numbers. <br  />
 Then created Train-Test-Split.<br  />
 By using few ML algorithms like Logistic regression,Multinomial Naive bayes etc.<br  />
-I will predict whether a password falls in category 0,1 or 2.
+I will predict whether a password falls in category 0,1 or 2.<br  />
+
